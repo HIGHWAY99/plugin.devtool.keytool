@@ -1,0 +1,17 @@
+[{'Date':'2015-03-29','Action':'import SplashChangerBrowse','Title':"Splash Changer (Browse)",'Desc':"Let's the user browse for a still image, and sets it as the splash image XBMC / Kodi.",'Thumb':'special://xbmc/media/Splash.png'}
+,{'Date':'2015-03-29','Action':'import SplashChangerUrl','Title':"Splash Changer (URL)",'Desc':"Let's the user provide a url for a still image, then downloads and sets it as the splash image XBMC / Kodi.",'Thumb':'special://xbmc/media/Splash.png'}
+,{'Date':'2015-03-29','Action':'import SetCBGBrowse','Title':"Confluence Background (Browse)",'Desc':"Let's the user browse for an image, and sets it as the background image for confluence skins.",'Thumb':'special://xbmc/addons/skin.confluence/icon.png'}
+,{'Date':'2015-03-29','Action':'import SetCBGUrlPng','Title':"Confluence Background (URL-PNG)",'Desc':"Let's the user provide a url for an image, then downloads and sets it as the background image for confluence skins.",'Thumb':'special://xbmc/addons/skin.confluence/icon.png'}
+,{'Date':'2015-03-29','Action':'import SetCBGUrlJpg','Title':"Confluence Background (URL-JPG)",'Desc':"Let's the user provide a url for an image, then downloads and sets it as the background image for confluence skins.",'Thumb':'special://xbmc/addons/skin.confluence/icon.png'}
+,{'Date':'2015-03-29','Action':'import SetCBGUrlGif','Title':"Confluence Background (URL-GIF)",'Desc':"Let's the user provide a url for an image, then downloads and sets it as the background image for confluence skins.",'Thumb':'special://xbmc/addons/skin.confluence/icon.png'}
+,{'Date':'2015-03-29','Action':'import RemoveAddon','Title':"Remove an Addon",'Desc':"Delete the folder of an add-on.",'Thumb':'DefaultAddon.png'}
+,{'Date':'2015-03-29','Action':'import RemoveAddonData','Title':"Remove an Addon's Data",'Desc':"Delete the data folder of an add-on. (ie: \"special://userdata/addon_data/\")",'Thumb':'DefaultFolder.png'}
+,{'Date':'2015-03-29','Action':'import EmptyFolderPackages','Title':"Empty Folder:  Packages",'Desc':'Empty the "Packages" folder.','Thumb':'DefaultFolder.png'}
+,{'Date':'2015-03-29','Action':'import EmptyFolderThumbnails','Title':"Empty Folder:  Thumbnails",'Desc':'Empty the "Thumbnails" folder.','Thumb':'DefaultPicture.png'}
+,{'Date':'2015-03-29','Action':'import RemoveDBFile','Title':"Remove File:  in Database",'Desc':'Delete a file ending in .db in "special://home/userdata/Database/".','Thumb':'DefaultFile.png'}
+,{'Date':'2015-03-29','Action':'import RemoveCacheFile','Title':"Remove File:  in Cache",'Desc':'Delete a file in "special://home/cache/".','Thumb':'DefaultHardDisk.png'}
+,{'Date':'2015-03-31','Action':'import CleanSlate','Title':"Clean Slate",'Desc':'Method 1 - Similar to FreshStart.','Thumb':'http://i.imgur.com/HpZ8lju.jpg'}
+,{'Date':'2015-03-31','Action':'import CleanStart','Title':"Clean Start",'Desc':'Method 2 - Similar to FreshStart.','Thumb':'http://i.imgur.com/HpZ8lju.jpg'}
+,{'Date':'2015-03-31','Action':'import UnpackZipToAddons','Title':"ZIP Url to Folder:  Addons",'Desc':'Download/Unzip to special://home/addons/, like addon installer.','Thumb':'DefaultAddon.png'}
+,{'Date':'2015-03-31','Action':'import UnpackZipToHome',  'Title':"ZIP Url to Folder:  Home",  'Desc':'Download/Unzip to special://home/, like wizard.','Thumb':'icon_home.png'}
+]

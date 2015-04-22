@@ -1,0 +1,6 @@
+<settings>
+	<category label="General">
+		<setting visible="true" id="core-player" 		type="labelenum" label="Player Core" values="AUTO|DVDPLAYER|MPLAYER|PAPLAYER"             default="AUTO"/>
+		<setting id="use-sfx" type="bool" label="Use Sounds?" default="true" visible="false" />
+	</category>
+</settings>
